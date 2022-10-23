@@ -113,11 +113,7 @@ body {
   right: -3px;
 }
 
-.inspiration {
-  position: absolute;
-  bottom: 20px;
-  left: 20px;
-}
+
 * {
     box-sizing: border-box;
     margin: 0;
